@@ -1,1 +1,60 @@
+Hey There!
+
+GitHub Stats Badge 
 [![Hariharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hariharan822&show_icons=true&theme=radical&hide_rank=false&include_all_commits=true&count_private=true)](https://github.com/Hariharan822)
+
+Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan822&layout=compact&theme=radical&langs_count=6)](https://github.com/Hariharan822)
+
+Contribution Graph
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hariharan822&theme=radical&hide_border=true)](https://github.com/Hariharan822)
+
+Skill Badges
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45B7D1?style=for-the-badge&logo=microsoft&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Visitors](https://komarev.com/ghpvc/?username=Hariharan822&color=blueviolet)
+
+Let's connect
+<div align="center">
+  <a href="mailto:hari4suki@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="[https://linkedin.com/in/hariharan-sdet](https://www.linkedin.com/in/hariharan-sukumaran-8281a9110/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://chess.com/member/Hariharan822" target="_blank">
+    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=lichess&logoColor=white">
+  </a>
+  <a href="https://github.com/Hariharan822" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+Timeline Badge
+<div align="center">
+  <img src="https://img.shields.io/badge/2025-Active%20Contributing-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/ISTQB_CTFL-Exam%202026-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Java_Backend-Learning-orange?style=flat-square">
+</div>
+
+Project cards
+### 📌 Featured Projects
+
+<a href="https://github.com/Hariharan822/ADB-cheat-sheet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hariharan822&repo=ADB-cheat-sheet&theme=radical" />
+</a>
+
+<a href="https://github.com/Hariharan822/FRP-Bypass-Testing-Repository">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hariharan822&repo=FRP-Bypass-Testing-Repository&theme=radical" />
+</a>
+
+Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hariharan822&theme=radical&column=7)](https://github.com/Hariharan822)
