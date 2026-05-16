@@ -1,39 +1,133 @@
-Hey There, Welcome!
+# Hariharan 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hariharan822&theme=radical&hide_border=true)](https://github.com/Hariharan822)
+**Senior QA Automation Engineer (SDET) | Founder @ Chittrix | Chess Coach | Applied Psychology + Tech**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45B7D1?style=for-the-badge&logo=microsoft&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+I build test automation that catches what matters. 7+ years automating Android, APIs, and microservices. Currently exploring Java backend development and building a QA consulting startup.
 
-![Visitors](https://komarev.com/ghpvc/?username=Hariharan822&color=blueviolet)
+---
 
+## About Me
 
-<div align="center">
-  <a href="mailto:hari4suki@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/hariharan-sukumaran-8281a9110" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://chess.com/member/Hariharan822" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=lichess&logoColor=white">
-  </a>
-  <a href="https://github.com/Hariharan822" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
+I'm a Senior SDET with a background in both **Applied Psychology (MSc)** and **Mechanical Engineering (BE)**—an unconventional combo that shapes how I think about quality, user behavior, and system design. 
 
+At **Infosys** (Google client), I architect test frameworks for Android and AI products. I teach because learning sticks better when you explain it. I play chess at tournament level and coach online. I'm building **Chittrix**—a QA consulting and servicing platform—from the ground up.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/2025-Active%20Contributing-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/ISTQB_CTFL-Exam%202026-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Java_Backend-Learning-orange?style=flat-square">
-</div>
+I don't just write test cases. I design test strategies that catch real bugs while eliminating noise.
 
+---
+
+## What I Do
+
+**QA Automation & Test Strategy**  
+Java, Selenium, Playwright, REST Assured, Cucumber BDD. Built test frameworks from 0→1 at multiple teams.
+
+**Microservices & Backend**  
+Spring Boot, Docker, Kubernetes, API gateways. I understand how backend systems work so I can test them intelligently. Currently learning Java backend development.
+
+**Teaching & Mentoring**  
+Run an online chess academy. Building Chittrix to scale QA services.
+
+**Psychology in Tech**  
+MSc Applied Psychology means I think about *why* things fail, not just *how*. Studying early childhood special education via IGNOU (CESEIID program).
+
+---
+
+## Currently Working On
+
+**Infosys** — QA for Android applications and AI related behaviours, enhancing product quality.
+
+**IGNOU CESEIID** — Early childhood special education and IEP/IFSP development. Bridging psychology with practical child development.
+
+---
+
+## Tech Stack
+
+**Languages** — Java, SQL, Bash
+
+**Automation** — Selenium, Playwright, REST Assured, Cucumber BDD
+
+**Backend** — Spring Boot, Microservices, Docker, Kubernetes
+
+**Platforms** — Android (ADB), CI/CD (Jenkins, GitHub Actions), Linux
+
+**Databases** — MySQL, PostgreSQL
+
+**Tools** — Git, JIRA, Postman, IntelliJ, VS Code
+
+---
+
+## Key Projects
+
+### Microservices Project *(Coming Soon)*
+
+Product Service + Order Service + API Gateway with Feign Client. Full-stack demonstration: service design, inter-service communication, resilience patterns, containerization.
+
+**Stack:** Java, Spring Boot, Docker, Feign, REST APIs
+
+### ADB Cheat Sheet for QA
+
+Comprehensive Android Debug Bridge reference. Essential ADB commands for mobile testing, debugging, and device automation. Used by 10+ QA teams at Infosys.
+
+**Focus:** Mobile QA, command-line mastery, Android testing patterns
+
+### FRP Bypass Testing Repository
+
+Factory Reset Protection bypass methods and testing scenarios. Security-focused QA, edge case testing, device-level compliance.
+
+**Focus:** Security testing, regulatory compliance, device-level QA
+
+### QA Projects
+
+Production QA frameworks, test utilities, and reusable patterns from 7+ years in the field. Real-world solutions.
+
+---
+
+## Why Work With Me
+
+✓ **Strategic mindset** — I design test strategies, not just execute test cases.
+
+✓ **Full-stack QA** — UI automation, API testing, infrastructure. I speak backend.
+
+✓ **Teaching ability** — I explain *why* things matter, not just *how* to do them. Great for knowledge transfer.
+
+✓ **Scaling experience** — Built QA from 0→1 multiple times. Know how to move fast without breaking things.
+
+✓ **Genuinely curious** — Learning Java backend, studying child development, coaching chess at tournament level. I don't coast.
+
+---
+
+## Let's Connect
+
+**Email** — hari4suki@gmail.com
+
+**LinkedIn** — [linkedin.com/in/hariharan-sdet](https://www.linkedin.com/in/hariharan-sukumaran-8281a9110/)
+
+**Chess** — https://www.chess.com/member/hariharan_chidambaram
+
+**Location** — Bangalore (based) | Chidambaram, Tamil Nadu (roots)
+
+---
+
+## Certifications & Learning
+
+ISTQB CTFL — Certified Test Professional (Exam Q2 2026)
+
+IGNOU CESEIID — Early Childhood Special Education & Inclusive Education (Active)
+
+Spring Boot & Microservices — Self-directed hands-on learning
+
+---
+
+## Quick Facts
+
+🏆 Tournament-level chess player → now coaching online
+
+🎓 MSc Applied Psychology + BE Mechanical Engineering
+
+🌍 Deep roots in Chidambaram, strong base in Bangalore
+
+📚 Exploring the intersection of psychology, education, and technology
+
+---
+
+**"Quality isn't about finding bugs. It's about preventing the wrong code from ever shipping."**
