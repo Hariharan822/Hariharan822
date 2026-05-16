@@ -19,7 +19,7 @@ Hey There, Welcome!
   <a href="mailto:hari4suki@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="[https://linkedin.com/in/hariharan-sdet](https://www.linkedin.com/in/hariharan-sukumaran-8281a9110/)" target="_blank">
+  <a href="https://www.linkedin.com/in/hariharan-sukumaran-8281a9110" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://chess.com/member/Hariharan822" target="_blank">
