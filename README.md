@@ -1,9 +1,7 @@
-Hey There!
+Hey There, Welcome!
 
-Contribution Graph
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hariharan822&theme=radical&hide_border=true)](https://github.com/Hariharan822)
 
-Skill Badges
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45B7D1?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -39,12 +37,3 @@ Skill Badges
   <img src="https://img.shields.io/badge/Java_Backend-Learning-orange?style=flat-square">
 </div>
 
-📌 Featured Projects
-
-<a href="https://github.com/Hariharan822/ADB-cheat-sheet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hariharan822&repo=ADB-cheat-sheet&theme=radical" />
-</a>
-
-<a href="https://github.com/Hariharan822/FRP-Bypass-Testing-Repository">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hariharan822&repo=FRP-Bypass-Testing-Repository&theme=radical" />
-</a>
