@@ -1,11 +1,5 @@
 Hey There!
 
-GitHub Stats Badge 
-[![Hariharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hariharan822&show_icons=true&theme=radical&hide_rank=false&include_all_commits=true&count_private=true)](https://github.com/Hariharan822)
-
-Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan822&layout=compact&theme=radical&langs_count=6)](https://github.com/Hariharan822)
-
 Contribution Graph
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hariharan822&theme=radical&hide_border=true)](https://github.com/Hariharan822)
 
@@ -22,7 +16,7 @@ Skill Badges
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Visitors](https://komarev.com/ghpvc/?username=Hariharan822&color=blueviolet)
 
-Let's connect
+
 <div align="center">
   <a href="mailto:hari4suki@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -38,15 +32,14 @@ Let's connect
   </a>
 </div>
 
-Timeline Badge
+
 <div align="center">
   <img src="https://img.shields.io/badge/2025-Active%20Contributing-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/ISTQB_CTFL-Exam%202026-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Java_Backend-Learning-orange?style=flat-square">
 </div>
 
-Project cards
-### 📌 Featured Projects
+📌 Featured Projects
 
 <a href="https://github.com/Hariharan822/ADB-cheat-sheet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hariharan822&repo=ADB-cheat-sheet&theme=radical" />
@@ -55,6 +48,3 @@ Project cards
 <a href="https://github.com/Hariharan822/FRP-Bypass-Testing-Repository">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hariharan822&repo=FRP-Bypass-Testing-Repository&theme=radical" />
 </a>
-
-Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hariharan822&theme=radical&column=7)](https://github.com/Hariharan822)
